@@ -1,7 +1,7 @@
 {
   "name": "@berakhah/rsbuild-plugin-svg-sprite-loader",
-  "version": "0.0.0",
-  "repository": "https://github.com/rspack-contrib/rsbuild-plugin-template",
+  "version": "0.0.1",
+  "repository": "https://github.com/VignaAngularis/berakhah-rsbuild-plugin-svg-sprite-loader",
   "license": "MIT",
   "type": "module",
   "exports": {
